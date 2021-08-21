@@ -7,3 +7,4 @@ As stated above the purspose is to show how commands works
 ## Deployment
 This is simple web project and deployment can happen anywhere.
 ## how to contribute
+please fork this repository
