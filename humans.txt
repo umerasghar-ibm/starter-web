@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+Joson Tayler jason@gmail.com
 
 # THANKS
 
